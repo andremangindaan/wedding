@@ -13,7 +13,7 @@
 <head>
     <link rel="icon"
           type="image/png"
-          href="<?= base_url()?>assets/images/favicon.png">
+          href="assets/images/favicon.png">
     <meta charset="UTF-8">
     <title>Andre & Aisyah wedding</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -835,8 +835,8 @@
         <img src="assets/de17cornerelement.png" class="corner-element top-left" alt=""> -->
 
         <p><img src="" width="60%" style="text-align: center"></p>
-        <!--<p class="imgopenint"><img class='close' src="assets/demoopenerimg.png" style="text-align: center"></p>-->
-        <p class="imgopenint"><img class='close' src="assets/images/fotothumbnail.png" style="text-align: center"></p>
+        <p class="imgopenint"><img class='close' src="assets/images/demoopenerimg.png" style="text-align: center"></p>
+<!--        <p class="imgopenint"><img class='close' src="assets/images/fotothumbnail.png" style="text-align: center"></p>-->
 
         <p style="text-align: center; line-height: normal; margin-bottom:-10px; color: white">Kepada Yth.<br><span style="font-size:12px">Bapak/Ibu/Saudara/i</span></p>
 
@@ -1010,7 +1010,7 @@
                     Maha Suci Allah<br>yang telah menciptakan makhluk-Nya<br>berpasang-pasangan.<br>Ya Allah semoga ridha-Mu tercurah<br>mengiringi pernikahan putra-putri kami:</div>
             </div>
             <br>
-            <div><img src="assets/images/fotona.png" width="40%" alt=""><br><span class="bridefont">Nurul Aisyah AMD.Kom<span style="font-size: 13px"></span></span>
+            <div><img src="assets/images/fotona.png" width="40%" alt=""><br><span class="bridefont">Nurul Aisyah A.Md.Kom<span style="font-size: 13px"></span></span>
             </div>
             <div class="explainbride">Putri kedua dari<br>Bpk. Benny Hadi Purnomo & Ibu (Almh) Yanti Gunarti</div>
             <br>
@@ -1179,7 +1179,7 @@
                                         <td></td>
                                     </tr>
                                     <tr align="right">
-                                        <td>13.00 - 15.00 WIB</td>
+                                        <td>11.00 - 13.00 WIB</td>
                                         <td><i class="fa fa-clock-o"></i></td>
                                         <td></td>
                                     </tr>
@@ -1381,7 +1381,7 @@
                     </div> -->
 
                     <div class="w3-half">
-                        <img src="assets/images/foto11.jpg" style="width:100%" onclick="onClick(this)"
+                        <img src="assets/img/SR01163.JPG" style="width:100%" onclick="onClick(this)"
                              alt="AndreAisyah">
                         <img src="assets/images/foto2.jpg" style="width:100%" onclick="onClick(this)"
                              alt="AndreAisyah">
@@ -1542,15 +1542,15 @@
                     <div class="wishcontainer">
 
 
-                        <form action="" method="post">
+<!--                        <form action="" method="post">-->
                             <label for="nama" style="color:white;">Nama</label>
                             <input type="text" id="nama" name="nama" placeholder="Nama.." required>
 
                             <label for="ucap" style="color:white;">Ucapan</label>
                             <textarea id="ucap" name="ucap" placeholder="Ucapan Doa & Harapan.." style="height:100px" required></textarea>
 
-                            <input type="submit" name="submit" value="Send">
-                        </form>
+                            <input type="submit" id="submit" name="submit" onclick="sendUcapan()" value="Send">
+<!--                        </form>-->
                     </div>
 
                     <br>
@@ -1695,6 +1695,28 @@
 
     document.getElementById("write").innerHTML = sn;
 
+    function sendUcapan() {
+        var nama =  document.getElementById('nama').value;
+        var ucap =  document.getElementById('ucap').value;
+        if (nama !== '' && ucap !== ''){
+
+            var targetUrl = '<?=base_url()?>home/send_ucapan';
+            var params = nama+'|'+ucap;
+
+            console.log(targetUrl);
+
+            // $.ajax({
+            //     type: 'POST',
+            //     url: targetUrl,
+            //     dataType: 'json',
+            //     data: {"value":params},
+            //     success: function (data) {
+            //         console.log(data);
+            //     }
+            // })
+        }
+    }
+
 </script>
 <script type="text/javascript" src="assets/js/jquery-1.10.1.min.js"></script>
 
@@ -1712,7 +1734,6 @@
 <!--            mybutton.style.display = "none";-->
 <!--        }-->
 <!--    }-->
-<!---->
 <!--</script>-->
 
 
