@@ -15,9 +15,9 @@
           type="image/png"
           href="assets/images/favicon.png">
     <meta charset="UTF-8">
-    <title>Andre & Aisyah wedding</title>
+    <title>Andre & Aisyah Wedding</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="description" content="Spesial mengundang untuk menghadiri pernikahan kami. Aisyah-Andre" />
+    <meta name="description" content="Spesial mengundang untuk menghadiri pernikahan kami. Andre-Aisyah" />
     <!--<meta name="keywords" content="undangan digital, undangan online, undangan nikah, website undangan, pernikahan, wedding, marriage" />-->
 <!--    <meta name="author" content="nikahankami (admin@nikahankami.com)" />-->
     <meta name="robots" content="follow, index" />
@@ -28,8 +28,8 @@
         <link itemprop="url" href="assets/images/demoogthumbnail.jpg">
     </span>
     <meta property="og:image" content="assets/demoogthumbnail.jpg" />
-    <meta property="og:title" content="Pernikahan Aisyah-Andre" />
-    <meta property="og:description" content="Spesial mengundang untuk menghadiri pernikahan kami. Aisyah-Andre" />
+    <meta property="og:title" content="Pernikahan Andre-Aisyah" />
+    <meta property="og:description" content="Spesial mengundang untuk menghadiri pernikahan kami. Andre-Aisyah" />
     <link rel="stylesheet" href="assets/css/w35style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -835,12 +835,12 @@
         <img src="assets/de17cornerelement.png" class="corner-element top-left" alt=""> -->
 
         <p><img src="" width="60%" style="text-align: center"></p>
-        <p class="imgopenint"><img class='close' src="assets/images/demoopenerimg.png" style="text-align: center"></p>
+        <p class="imgopenint"><img class='close' src="assets/img/opening.png" style="text-align: center"></p>
 <!--        <p class="imgopenint"><img class='close' src="assets/images/fotothumbnail.png" style="text-align: center"></p>-->
 
         <p style="text-align: center; line-height: normal; margin-bottom:-10px; color: white">Kepada Yth.<br><span style="font-size:12px">Bapak/Ibu/Saudara/i</span></p>
 
-        <p style="color: #404040; font-size: 20px; font-weight:bold; color: white; padding-bottom:10px; border-radius:4px; text-align: center" id="write"></p>
+        <p style="color: #404040; font-size: 18px; font-weight:bold; color: white; padding-bottom:10px; border-radius:4px; text-align: center" id="write"></p>
         </p>
         <p><a href='' id="unmute-sound" class='close'>Buka Undangan</a></p>
 
@@ -860,7 +860,7 @@
         <!--
             <i class="fa fa-music"></i> -->
         <audio id='song' loop>
-            <source src="assets/songs/pamerbojo.mp3">
+            <source src="assets/songs/itsyou.mp3">
         </audio>
 
         <button type="button" class="music" id="unmute2-sound">
@@ -891,9 +891,10 @@
     <ul class="cb-slideshow">
         <li><span>Image 01</span><div><h3>THE WEDDING</h3></div></li>
         <li><span>Image 02</span><div><h3>06 FEBRUARI 2022</h3></div></li>
-        <li><span>Image 03</span><div><h3>SAVE.THE.DATE</h3></div></li>
+<!--        <li><span>Image 03</span><div><h3>SAVE.THE.DATE</h3></div></li>-->
         <li><span>Image 04</span><div><h3></h3></div></li>
-        <li><span>Image 05</span><div><h3>AISYAH & ANDRE</h3></div></li>
+        <li><span>Image 04</span><div><h3></h3></div></li>
+        <li><span>Image 05</span><div><h3>ANDRE & AISYAH</h3></div></li>
         <li><span>Image 06</span><div><h3></h3></div></li>
     </ul>
     <div class="container4cover">
@@ -905,7 +906,7 @@
                 <h6><span style="font-family: edwardscript; font-size: 46px;">Tripati</span></h6>
             </div> -->
             <div style="line-height:80%; padding-top:80px;">
-                <h6><span style="font-family: cookie; font-size: 35px">Aisyah & Andre</span></h6>
+                <h6><span style="font-family: cookie; font-size: 35px">Andre & Aisyah</span></h6>
                 <h6>Official Invitation</h6>
             </div>
             <p class="codrops-demos">
@@ -1010,15 +1011,15 @@
                     Maha Suci Allah<br>yang telah menciptakan makhluk-Nya<br>berpasang-pasangan.<br>Ya Allah semoga ridha-Mu tercurah<br>mengiringi pernikahan putra-putri kami:</div>
             </div>
             <br>
-            <div><img src="assets/images/fotona.png" width="40%" alt=""><br><span class="bridefont">Nurul Aisyah A.Md.Kom<span style="font-size: 13px"></span></span>
+            <div><img src="assets/img/cpp.png" width="40%" alt=""><br><span class="bridefont">Andre Saputra Mangindaan S.Kom<span style="font-size: 13px"></span></span>
             </div>
-            <div class="explainbride">Putri kedua dari<br>Bpk. Benny Hadi Purnomo & Ibu (Almh) Yanti Gunarti</div>
+            <div class="explainbride">Putra pertama dari<br>Bpk. Anton Mangindaan (Rahimahullah) & Ibu Zulfia Hady</div>
             <br>
             <div class="explainbride">dan</div>
             <br>
-            <div><img src="assets/images/fotoam.png" width="40%" alt=""><br><span class="bridefont">Andre Saputra Mangindaan S.Kom<span style="font-size: 13px"></span></span>
+            <div><img src="assets/img/cpw.png" width="40%" alt=""><br><span class="bridefont">Nurul Aisyah A.Md.Kom<span style="font-size: 13px"></span></span>
             </div>
-            <div class="explainbride">Putra pertama dari<br>Bpk. (Alm) Anton Mangindaan & Ibu Zulfia Hady</div>
+            <div class="explainbride">Putri kedua dari<br>Bpk. Benny Hadi Purnomo & Ibu Yanti Gunarti (Rahimahullah)</div>
             <br>
             <br>
             <br>
@@ -1351,7 +1352,7 @@
         <div class="content4pad">
             <br>
             <h3 style="font-family: Angelface; font-size: 38px; color: white">Gallery</h3>
-            <p class="explainbride">Momen Bahagia Aisyah-Andre</p>
+            <p class="explainbride">Moment Bahagia Andre-Aisyah</p>
 
             <!-- !PAGE CONTENT! -->
             <div class="w3-main w3-content" style="max-width:1600px;margin-top:20px">
@@ -1381,28 +1382,28 @@
                     </div> -->
 
                     <div class="w3-half">
-                        <img src="assets/img/SR01163.JPG" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/foto2.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/foto3.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal07.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal09.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
+                        <img src="assets/img/foto9.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto2.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto3.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto4.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto1.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
                     </div>
                     <div class="w3-half">
-                        <img src="assets/images/demogal02.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal04.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal06.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal08.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
-                        <img src="assets/images/demogal10.jpg" style="width:100%" onclick="onClick(this)"
-                             alt="AndreAisyah">
+                        <img src="assets/img/foto6.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto5.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto7.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto8.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
+                        <img src="assets/img/foto10.jpg" style="width:100%" onclick="onClick(this)"
+                             alt="">
                     </div>
                 </div>
 
@@ -1481,7 +1482,7 @@
         <div class="content4pad">
             <br>
             <h3 style="font-family: Angelface; font-size: 38px; color: white">Story</h3>
-            <p class="explainbride">Kisah Bahagia Aisyah-Andre</p>
+            <p class="explainbride">Kisah Bahagia Andre-Aisyah</p>
             <p class="explainbride">--</p>
             <p class="explainbride">Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.</p>
             <p class="explainbride"><b>- QS. Ar-Rum: 21 -</b></p>
@@ -1496,16 +1497,8 @@
                     <div class="container left">
                         <div class="content">
                             <div class="bg1content">
-                                <h2><span style="font-size: 14px"></span>2016</h2>
-                                <p>Kami pertama kali bertemu satu sama lain di sebuah acara peminatan di kampus. Kami berkenalan karena kami menjadi perwakilan masing-masing divisi kegiatan yang kami selenggarakan.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container right">
-                        <div class="content">
-                            <div class="bg1content">
-                                <h2><span style="font-size: 14px"></span>2018</h2>
-                                <p>Setelah lama tidak bertemu akhirnya kami bertemu kembali di sebuah acara seminar profesional. Kebetulan kami berada di bidang yang sama.</p>
+                                <h2><span style="font-size: 14px"></span>2019</h2>
+                                <p>...</p>
                             </div>
                         </div>
                     </div>
@@ -1513,7 +1506,7 @@
                         <div class="content">
                             <div class="bg1content">
                                 <h2><span style="font-size: 14px"></span>2020</h2>
-                                <p>Salah satu momen yang tidak disangka, Ken melamar saya dengan langsung menyatakan keinginannya kepada ayah saya. Kami pun bersiap dengan petualangan baru.</p>
+                                <p>...</p>
                             </div>
                         </div>
                     </div>
@@ -1521,6 +1514,14 @@
                         <div class="content">
                             <div class="bg1content">
                                 <h2><span style="font-size: 14px"></span>2021</h2>
+                                <p>...</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container right">
+                        <div class="content">
+                            <div class="bg1content">
+                                <h2><span style="font-size: 14px"></span>2022</h2>
                                 <p>Momen spesial kami akan dimulai dari titik ini, momen kebahagiaan kami bersama membangun keluarga kecil kami. Semoga Allah SWT memberikan keberkahan untuk pernikahan kami.</p>
                             </div>
                         </div>
@@ -1535,7 +1536,7 @@
                 <br>
 
                 <div class="">
-                    <p class="explainbride">Ucapan Selamat & Doa untuk<br>Aisyah-Andre</p>
+                    <p class="explainbride">Ucapan Selamat & Doa untuk<br>Andre-Aisyah</p>
                 </div>
 
                 <div class="wishspace">
