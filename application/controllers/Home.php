@@ -12,7 +12,7 @@ class Home extends CI_Controller
     {
         parent::__construct();
         $this->load->database();
-        $this->load->model('HomeM');
+//        $this->load->model('HomeM');
     }
 
     public function index()
@@ -20,15 +20,15 @@ class Home extends CI_Controller
         $this->load->view('v_home');
     }
 
-    public function send_ucapan(){
-        if ($this->input->post('value')){
-            $params = explode('|', $this->input->post('value'));
-            $data = array(
-                'NAMA' => $params[0],
-                'UCAPAN' => $params[1]
-            );
-//        $response = $this->HomeM->send_ucapan_model($data);
-            echo json_encode($data, JSON_PRETTY_PRINT);
-        }
-    }
+//    public function send_ucapan(){
+//        if ($this->input->post('value')){
+//            $params = explode('|', $this->input->post('value'));
+//            $data = array(
+//                'NAMA' => $params[0],
+//                'UCAPAN' => $params[1]
+//            );
+////        $response = $this->HomeM->send_ucapan_model($data);
+//            echo json_encode($data, JSON_PRETTY_PRINT);
+//        }
+//    }
 }
