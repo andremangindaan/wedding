@@ -891,8 +891,8 @@
     <ul class="cb-slideshow">
         <li><span>Image 01</span><div><h3>THE WEDDING</h3></div></li>
         <li><span>Image 02</span><div><h3>06 FEBRUARI 2022</h3></div></li>
-<!--        <li><span>Image 03</span><div><h3>SAVE.THE.DATE</h3></div></li>-->
-        <li><span>Image 04</span><div><h3></h3></div></li>
+        <li><span>Image 03</span><div><h3>SAVE.THE.DATE</h3></div></li>
+<!--        <li><span>Image 04</span><div><h3></h3></div></li>-->
         <li><span>Image 04</span><div><h3></h3></div></li>
         <li><span>Image 05</span><div><h3>ANDRE & AISYAH</h3></div></li>
         <li><span>Image 06</span><div><h3></h3></div></li>
@@ -1011,13 +1011,13 @@
                     Maha Suci Allah<br>yang telah menciptakan makhluk-Nya<br>berpasang-pasangan.<br>Ya Allah semoga ridha-Mu tercurah<br>mengiringi pernikahan putra-putri kami:</div>
             </div>
             <br>
-            <div><img src="assets/img/cpp.png" width="40%" alt=""><br><span class="bridefont">Andre Saputra Mangindaan S.Kom<span style="font-size: 13px"></span></span>
+            <div><img src="assets/img/cpp.png" width="40%" alt="" style="border: 3px solid #BEA55B; border-radius: 50%"><br><span class="bridefont">Andre Saputra Mangindaan S.Kom<span style="font-size: 13px"></span></span>
             </div>
             <div class="explainbride">Putra pertama dari<br>Bpk. Anton Mangindaan (Rahimahullah) & Ibu Zulfia Hady</div>
             <br>
             <div class="explainbride">dan</div>
             <br>
-            <div><img src="assets/img/cpw.png" width="40%" alt=""><br><span class="bridefont">Nurul Aisyah A.Md.Kom<span style="font-size: 13px"></span></span>
+            <div><img src="assets/img/cpw.png" width="40%" alt="" style="border: 3px solid #BEA55B; border-radius: 50%"><br><span class="bridefont">Nurul Aisyah A.Md.Kom<span style="font-size: 13px"></span></span>
             </div>
             <div class="explainbride">Putri kedua dari<br>Bpk. Benny Hadi Purnomo & Ibu Yanti Gunarti (Rahimahullah)</div>
             <br>
@@ -1244,9 +1244,9 @@
                 <div style="padding:5px; border-bottom:1px solid #c7c7c7;">
                     Wajib menggunakan masker
                 </div>
-                <div style="padding:5px; border-bottom:1px solid #c7c7c7;">
-                    Menggunakan salam namaste / salam hangat tanpa bersentuhan
-                </div>
+<!--                <div style="padding:5px; border-bottom:1px solid #c7c7c7;">-->
+<!--                    Menggunakan salam namaste / salam hangat tanpa bersentuhan-->
+<!--                </div>-->
                 <div style="padding:5px; border-bottom:1px solid #c7c7c7;">
                     Saling menjaga jarak di dalam acara
                 </div>
@@ -1494,14 +1494,6 @@
                 <!-- timeline start -->
 
                 <div class="timeline">
-                    <div class="container left">
-                        <div class="content">
-                            <div class="bg1content">
-                                <h2><span style="font-size: 14px"></span>2019</h2>
-                                <p>...</p>
-                            </div>
-                        </div>
-                    </div>
                     <div class="container left">
                         <div class="content">
                             <div class="bg1content">
